@@ -39,6 +39,11 @@
     <dimen name="card_elevation">2dp</dimen>
     <dimen name="card_corner_radius">12dp</dimen>
 
+    <!-- Mengatur Ukuran dan Penjarakan Card dalam Kolom-->
+    <dimen name="card_bottom_padding">150dp</dimen>
+    <dimen name="card_width">250dp</dimen>
+    <dimen name="card_height">40dp</dimen>
+
     <!-- elevation for Plant Detail toolbar - used to convert to pixels when hiding/showing -->
     <dimen name="toolbar_elevation">5dp</dimen>
 
